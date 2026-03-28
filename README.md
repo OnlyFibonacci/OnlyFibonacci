@@ -1,31 +1,66 @@
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+# Selam, Ben Ahmet Başlık 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onlyfibonacci&label=Profile%20views&color=0e75b6&style=flat" alt="onlyfibonacci" /> </p>
+**Software & Fintech Engineer | Bilişim Sistemleri Mühendisi | Tech Educator**
 
-<p align="left"> <a href="https://twitter.com/onlyfibonacci" target="blank"><img src="https://img.shields.io/twitter/follow/onlyfibonacci?logo=twitter&style=for-the-badge" alt="onlyfibonacci" /></a> </p>
+Teknik uzmanlığımı finansal piyasalarla birleştiren bir **"Technical Bridge"** (Teknik Köprü) olarak; karmaşık iş problemlerini (SaaS, Fintech) hızlı prototipleme ve ölçeklenebilir kod yapılarıyla çözen bir mühendisim. Geleneksel yazılım süreçlerini **VibeCoding (AI-assisted development)** metodolojisiyle hızlandırarak, ürün odaklı ve yüksek performanslı çıktılar üretiyorum.
 
-- 🌱 I’m currently learning **Django**
+---
 
-- 📝 I regularly write articles on [algotrade.dev](algotrade.dev)
+## 🚀 Öne Çıkan Projelerim
 
-- 💬 Ask me about **python, c, c++**
+### 🦭 [SealLayer](https://github.com/SealLayer) 
+**Privacy-First Content Integrity & GPG-Signed Public Ledger**
+- **Mimari:** Ham veriyi sunucuya göndermeden SHA-256 hash'leri üzerinden çalışan, GitHub'ı halka açık bir defter (ledger) olarak kullanan kriptografik mühürleme sistemi.
+- **Teknoloji:** Go (Gin), OpenPGP (Detached Signatures), React 19, TypeScript, Vite.
+- **Odak:** İçerik gizliliği, denetlenebilirlik ve istemci tarafı (client-side) doğrulama modeli.
 
-- 📫 How to reach me **onlyleofibonacci@gmail.com**
+### ✍️ [Next-Markdown-Blog-Engine](https://github.com/OnlyFibonacci/Next-Markdown-Blog-Engine)
+**Self-Hosted, High-Performance Blog Infrastructure**
+- **Mimari:** Veritabanı bağımlılığı olmayan, tamamen Git tabanlı (GitOps) çalışan profesyonel blog motoru.
+- **Teknoloji:** Next.js 15+ (App Router), Tailwind CSS v4, Shiki, Unified/Remark/Rehype, Docker.
+- **Odak:** SSG (Static Site Generation), 100/100 Lighthouse skoru, otomatik TOC ve Coolify ile self-hosted dağıtım.
 
+---
 
+## 📊 Sosyal Etki & Eğitim (Reach)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/onlyfibonacci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onlyfibonacci" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmetbaslik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmetbaslik" height="30" width="40" /></a>
-<a href="https://dribbble.com/ahmetbaslik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ahmetbaslik" height="30" width="40" /></a>
-<a href="https://www.behance.net/ahmetbaslik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahmetbaslik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/onlyfibonacci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="onlyfibonacci" height="30" width="40" /></a>
-<a href="/https://www.algotrade.dev/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.algotrade.dev/feed/" height="30" width="40" /></a>
-</p>
+Teknik bilgi birikimimi geniş kitlelerle paylaşan bir **Tech Educator** olarak:
+- **YouTube (@OnlyFibonacci):** 10.000+ abone, 200+ teknik video.
+- **TradingView:** 10.000+ takipçi, Pine Script alanında "Premium" üye ve otorite.
+- **Udemy:** 3.000+ öğrenciye algoritmik ticaret ve finansal yazılım mentorluğu.
+- **Topluluk:** 500+ aktif üyeli algotrading Telegram topluluğu yöneticiliği.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=onlyfibonacci&show_icons=true&locale=en&layout=compact" alt="onlyfibonacci" /></p>
+## 💻 Teknoloji Yığınım & Yetkinlikler
+
+| Alan | Araçlar & Teknolojiler |
+| :--- | :--- |
+| **Fintech & Trading** | **Pine Script (Expert)**, TA, Backtesting, Exchange APIs (OKX, Iyzico) |
+| **Backend & System** | **Go**, Python (Flask), Node.js, SQL, REST API Architecture |
+| **Frontend** | **Next.js**, React, TypeScript, Tailwind CSS v4, HTML5/JS |
+| **AI & Workflow** | **VibeCoding** (Cursor, Claude 3.5 Sonnet/GPT-4o), Prompt Engineering |
+| **DevOps** | Docker, **Coolify**, GitHub Actions, n8n Automation, Linux Administration |
+
+---
+
+## 🛠️ Profesyonel Odak Noktalarım
+
+- 🛡️ **Güvenlik ve Bütünlük:** Veri gizliliği ve kriptografik doğrulama sistemleri (SealLayer).
+- 📈 **Finansal Otomasyon:** Webhook-to-Exchange iş akışları ve sinyal botları.
+- ⚡ **Hızlı MVP:** Modern AI araçlarını kullanarak fikirlerin hızlıca ölçeklenebilir ürünlere dönüştürülmesi.
+- 🏗️ **Infrastructure:** SaaS mimarileri ve self-hosted altyapı yönetimi.
+
+---
+
+## 📫 Bana Ulaşın
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetbaslik)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/onlyfibonacci)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OnlyFibonacci)
+[![TradingView](https://img.shields.io/badge/TradingView-2962FF?style=for-the-badge&logo=TradingView&logoColor=white)](https://www.tradingview.com/u/OnlyFibonacci/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmetbslk@gmail.com)
+
+---
+
+> "Modern backend teknolojilerini AI destekli geliştirme yöntemleriyle birleştirerek, klasik yazılım süreçlerinden çok daha hızlı ve ürün odaklı çözümler üretiyorum."
